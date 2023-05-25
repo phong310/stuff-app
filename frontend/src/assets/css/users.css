@@ -1,0 +1,18 @@
+.table {
+  padding: 0 30px;
+}
+.col_wrapp {
+  padding: 30px;
+}
+.col_wrapp_title {
+  padding: 10px 30px;
+}
+.input {
+  margin-right: 20px;
+}
+.select {
+  width: 500px;
+}
+.btn {
+  margin-right: 10px;
+}
